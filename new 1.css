@@ -3,7 +3,7 @@
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  background: linear-gradient(120deg, red, yellow, orange);
+  background: linear-gradient(120deg, ffff99, fce883, f0e68c);
 }
 a {
   color: black;
@@ -95,7 +95,7 @@ ul {
   border-radius: 20px;
   padding: 10px 20px;
   color: #FFF;
-  background-color: green;
+  background-color: red;
 }
 .flat-page .content .container {
   display: flex;
@@ -137,7 +137,7 @@ ul {
   margin-top: 30px;
   cursor: pointer;
   color: #FFF;
-  background-color: blue;
+  background-color: white;
 }
 .flat-page .content .image img {
   max-width: 120%;
