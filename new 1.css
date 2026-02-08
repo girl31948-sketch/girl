@@ -6,16 +6,16 @@ body {
   background: linear-gradient(120deg, ffff99, fce883, f0e68c);
 }
 a {
-  color: black;
+  color: white;
 }
 
 a:visited {
   
-  color: blue;
+  color: white;
       }
       
 a:hover {
-  color: 005aeb;
+  color: black;
       }
 ul {
   list-style: none;
@@ -82,7 +82,7 @@ ul {
 }
 .flat-page header .links li {
   margin-left: 10px;
-  color: 005aeb;
+  color: black;
   cursor: pointer;
   transition: .3s;
 }
